@@ -153,6 +153,6 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulkumarpvt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul98kumar0@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=your-github-handle&label=Profile%20Views&color=4FD1C5&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Rahulkumarpvt&label=Profile%20Views&color=4FD1C5&style=flat" alt="profile views" />
 
 </div>
