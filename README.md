@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:4FD1C5&height=200&section=header&text=Sohan%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:4FD1C5&height=200&section=header&text=Rahul%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20" width="100%" alt="header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;Building+on+Microsoft+Azure+%E2%98%81%EF%B8%8F;React+%7C+FastAPI+%7C+Python+%7C+Docker;Open+to+Opportunities" alt="typing animation" />
 
