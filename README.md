@@ -1,4 +1,12 @@
-# Hi there 👋, I'm Rahul Kumar Gupta
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:4FD1C5&height=200&section=header&text=Sohan%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20" width="100%" alt="header banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;Building+on+Microsoft+Azure+%E2%98%81%EF%B8%8F;React+%7C+FastAPI+%7C+Python+%7C+Docker;Open+to+Opportunities" alt="typing animation" />
+
+</div>
+
+# Hi there 👋, I'm Sohan Kumar Gupta
 
 ## 🚀 About Me
 
@@ -13,6 +21,7 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 ## 💻 Tech Stack
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=python,js,java,mysql" alt="Python, JavaScript, Java, SQL" />
 
 - Python
 - JavaScript
@@ -20,6 +29,7 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 - SQL
 
 ### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="React, HTML5, CSS3, Tailwind CSS, Bootstrap" />
 
 - React.js
 - HTML5
@@ -29,6 +39,7 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 - Responsive UI Design
 
 ### Backend
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="FastAPI, Node.js, Express.js" />
 
 - FastAPI
 - Node.js
@@ -36,12 +47,14 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 - REST APIs
 
 ### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="MongoDB, MySQL, Redis" />
 
 - MongoDB
 - MySQL
 - Redis
 
 ### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=azure,docker,githubactions" alt="Azure, Docker, GitHub Actions" />
 
 - Microsoft Azure
 - Azure App Services
@@ -53,6 +66,7 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 - CI/CD Pipelines
 
 ### Background Processing
+<img src="https://skillicons.dev/icons?i=redis" alt="Celery, Redis" />
 
 - Celery
 - Redis
@@ -73,6 +87,7 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 - Dynamic Forms
 
 ### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code" />
 
 - Git
 - GitHub
@@ -117,8 +132,27 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-handle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=your-github-handle&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+
+</div>
+
+---
+
 ## 📫 Connect with Me
 
-- LinkedIn
-- GitHub
-- Email
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<img src="https://komarev.com/ghpvc/?username=your-github-handle&label=Profile%20Views&color=4FD1C5&style=flat" alt="profile views" />
+
+</div>
