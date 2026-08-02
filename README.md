@@ -136,10 +136,10 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-handle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahulkumarpvt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkumarpvt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=your-github-handle&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Rahulkumarpvt&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 
 </div>
 
@@ -149,9 +149,9 @@ Currently working with React, FastAPI, Python, Azure, Docker, and modern AI tech
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ownrahulkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulkumarpvt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul98kumar0@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=your-github-handle&label=Profile%20Views&color=4FD1C5&style=flat" alt="profile views" />
 
