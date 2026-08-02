@@ -6,7 +6,7 @@
 
 </div>
 
-# Hi there 👋, I'm Sohan Kumar Gupta
+# Hi there 👋, I'm Rahul Kumar Gupta
 
 ## 🚀 About Me
 
